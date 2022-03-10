@@ -1,7 +1,7 @@
 {
     "this-repository": "https://github.com/edinhluo/artifact-directory-template",
     "project-repository": "https://github.com/edinhluo/DSC180-Capstone-Project",
-    "dockerhub-repository": "j2chu/docker-methodology",
+    "dockerhub-repository": "mengfanchen4747/dockerwork:latest",
     "project-website-url": "https://v1leeucsd.github.io/",
     "project-website-code": "https://github.com/v1leeucsd/v1leeucsd.github.io"
 }
